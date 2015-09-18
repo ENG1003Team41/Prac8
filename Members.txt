@@ -4,7 +4,13 @@ Member 1 Jack Walker
 
 Member 2 Cameron Roberts
 
-Member 3 Tom Pu
+Member 3 Tom PU
+
+Brief introduction
+
+Role in project: programmer
+
+Preferrd brunch of engineering: civil
 
 Member 4 Jeremy Kimm
 
